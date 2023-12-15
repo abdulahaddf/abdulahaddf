@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulahaddf&show_icons=true&locale=en" alt="abdulahaddf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahaddf&" alt="abdulahaddf" /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulahaddf&theme=dracula)](https://github.com/abdulahaddf/github-readme-activity-graph)
+
