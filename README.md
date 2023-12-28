@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdulahad-df.netlify.app/](https://abdulahad-df.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, NEXT JS**
 
 - 📫 How to reach me **abdulahad.df1@gmail.com**
 
