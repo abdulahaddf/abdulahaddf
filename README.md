@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahaddf&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahaddf" /> </p>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="">
 
-//[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulahad df&theme=dracula)](https://github.com/abdulahaddf/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulahad df&theme=dracula)](https://github.com/abdulahaddf/github-readme-activity-graph)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulahaddf" alt="abdulahaddf" /></a> </p>
 
