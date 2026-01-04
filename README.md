@@ -6,6 +6,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=abdulahaddf" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdulahaddf)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulahaddf)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on DSA & problem solving
 
