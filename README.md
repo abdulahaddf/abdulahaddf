@@ -61,13 +61,13 @@ With a background in **Industrial & Production Engineering (IPE)** from **NITER,
 ---
 
 ### 📌 Projects & Portfolio
-- 👨‍💻 All of my projects: **[Portfolio Website](https://abdulahad-df.netlify.app/)**
+- 👨‍💻 All of my projects: **[Portfolio Website](https://abdulahaddf.vercel.app)**
 - 🔗 GitHub Repositories: **[github.com/abdulahaddf](https://github.com/abdulahaddf)**
 
 ---
 
 ### 📄 Resume
-- 📄 **[View Resume](https://drive.google.com/file/d/1JBWIiK9rLC49ceOVRbFJ3gXmkf20cAQl/view)**
+- 📄 **[View Resume]([https://drive.google.com/file/d/1JBWIiK9rLC49ceOVRbFJ3gXmkf20cAQl/view](https://drive.google.com/file/d/1YZjtbXa3yLAugV_iD9RivbH7SoWPMWL2/view?usp=drive_link))**
 
 ---
 
