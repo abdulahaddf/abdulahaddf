@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
-<h3 align="center">Junior Full-Stack Developer | Optimization-Driven Engineer | Problem Solver</h3>
+<h2 align="center">What You can think of I can build it</h3>
+<h3 align="center">Full-Stack Developer | Optimization-Driven Engineer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulahaddf&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahaddf" />
@@ -74,7 +75,7 @@ With a background in **Industrial & Production Engineering (IPE)** from **NITER,
 ### 🔥 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdulahaddf)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdulahaddf)](https://git.io/streak-stats)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulahaddf&show_icons=true&locale=en&layout=compact" alt="abdulahaddf" />
 </p>
